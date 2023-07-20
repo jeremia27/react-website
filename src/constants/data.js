@@ -136,4 +136,7 @@ const testimonials = [
     }
 ];
 
-export default {skills, stats, works, services, testimonials};
+// export default {skills, stats, works, services, testimonials};
+const data = { skills, stats, works, services, testimonials };
+
+export default data;

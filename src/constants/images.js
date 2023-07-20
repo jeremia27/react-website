@@ -25,7 +25,7 @@ import work_6 from "../assets/images/work-6.jpg";
 import work_7 from "../assets/images/work-7.jpg";
 import work_8 from "../assets/images/work-8.jpg";
 
-export default{
+const images = {
     header_bg,
     logo,
     signature,
@@ -52,3 +52,5 @@ export default{
     work_7,
     work_8
 };
+
+export default images;
