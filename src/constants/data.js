@@ -77,42 +77,42 @@ const services = [
     {
         img: `${images.icon_diamond}`,
         title: "UI / UX DESIGN",
-        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.'
+        text: 'I/UX (User Interface and User Experience) is the backbone of digital design.'
     },
     {
         img: `${images.icon_archer}`,
         title: "WEB DEVELOPMENT",
-        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.'
+        text: 'Web Development - Building Digital Possibilities.'
     },
     {
         img: `${images.icon_phone}`,
         title: "APP / MOBILE",
-        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.'
+        text: 'Mobile App - Empowering On-the-Go Experiences.'
     },
     {
         img: `${images.icon_console}`,
         title: "GAME DESIGN",
-        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.'
+        text: 'Game Design - Crafting Interactive Adventures.'
     },
     {
         img: `${images.icon_plane}`,
         title: "SEO / MARKETING",
-        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.'
+        text: 'SEO/Marketing - Elevating Online Visibility.'
     },
     {
         img: `${images.icon_star}`,
         title: "PHOTOGRAPHY",
-        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.'
+        text: 'Mobile Photography App - Capturing Moments with Ease.'
     },
     {
         img: `${images.icon_fantasy}`,
         title: "GRAPHIC DESIGN",
-        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.'
+        text: 'Graphic Design - Visualizing Creativity to Inspire.'
     },
     {
         img: `${images.icon_paint}`,
         title: "ILLUSTRATIONS",
-        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.'
+        text: 'Illustrations - Bringing Imagination to Life.'
     }
 ];
 
@@ -128,11 +128,11 @@ const testimonials = [
     },
     {
         name: "Terry Overacker",
-        text: "We completed our product website with Dev.Point and are so excited to have it live!! It is so professionally done and eye appealing, not to mention how great it looks and works. We love how easy it is to make changes ourselves, yet know we have the support when/if we need it."
+        text: "We completed our product website with In Tech and are so excited to have it live!! It is so professionally done and eye appealing, not to mention how great it looks and works. We love how easy it is to make changes ourselves, yet know we have the support when/if we need it."
     },
     {
         name: "Tim K. & Kristen H.",
-        text: "When you choose Dev.Point you get a wonderful, professional team with innovative ideas, awesome customer service, and exactly what you're looking for. It took the ideas that we had and put them perfecly on the web."
+        text: "When you choose In Tech you get a wonderful, professional team with innovative ideas, awesome customer service, and exactly what you're looking for. It took the ideas that we had and put them perfecly on the web."
     }
 ];
 

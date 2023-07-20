@@ -32,7 +32,9 @@ const Header = () => {
                     <div className="header__content--left"></div>
                     <div className="header__content--right">
                         <h1 className="header__title fw__6">We Design and Develop</h1>
-                        <p className="para__text">We are a new design studio based in USA. We have over 20 years of combined experience, and know a thing or two about designing websites and mobile apps.</p>
+                        <p className="para__text">
+                        Welcome to In Tech, a dynamic design studio headquartered in the USA. With a team of highly skilled professionals, we bring together over 20 years of collective experience in crafting exceptional websites and mobile apps.
+                        </p>
                         <a href="#contact" className="btn btn__blue" onClick={() => scrollToSection("contact")}>contact us</a>
                     </div>
                 </div>

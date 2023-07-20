@@ -57,7 +57,7 @@ const Navbar = () => {
                             <a href="#testimonials" className="nav__link text__upper fw_6 text__light" onClick={() => scrollToSection("testimonials")}>testimonials</a>
                         </li>
                         <li className="nav__item">
-                            <a href="/" className="nav__link text__upper fw_6 text__light"onClick={() => scrollToSection("contact")}>contact</a>
+                            <a href="#contact" className="nav__link text__upper fw_6 text__light"onClick={() => scrollToSection("contact")}>contact</a>
                         </li>
                     </ul>
                 </div>
@@ -75,19 +75,19 @@ const Navbar = () => {
                                 <a href="#about" className="nav__link text__upper fw__6 text__light">about</a>
                             </li>
                             <li className="nav__item">
-                                <a href="#about" className="nav__link text__upper fw__6 text__light">work</a>
+                                <a href="#work" className="nav__link text__upper fw__6 text__light">work</a>
                             </li>
                             <li className="nav__item">
-                                <a href="#about" className="nav__link text__upper fw__6 text__light">process</a>
+                                <a href="#process" className="nav__link text__upper fw__6 text__light">process</a>
                             </li>
                             <li className="nav__item">
-                                <a href="#about" className="nav__link text__upper fw__6 text__light">services</a>
+                                <a href="#services" className="nav__link text__upper fw__6 text__light">services</a>
                             </li>
                             <li className="nav__item">
-                                <a href="#about" className="nav__link text__upper fw__6 text__light">testimonials</a>
+                                <a href="#testimonials" className="nav__link text__upper fw__6 text__light">testimonials</a>
                             </li>
                             <li className="nav__item">
-                                <a href="#about" className="nav__link text__upper fw__6 text__light">contact</a>
+                                <a href="#contact" className="nav__link text__upper fw__6 text__light">contact</a>
                             </li>
                         </ul>
                     </div>

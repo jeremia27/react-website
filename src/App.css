@@ -72,6 +72,9 @@
   .bg__blue{
     background-color: var(--robin-blue-color);
   }
+  .bg__pink{
+    background-color: #F2BED1;
+  }
   .bg__dark{
     background-color: var(--black-color);
   }
