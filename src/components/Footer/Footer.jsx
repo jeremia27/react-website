@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="container">
                 <div className="footer__content grid text__light text__center">
                     <div className="footer__content--item">
-                        <a href = "#home" className="footer__navlink">Sibarani-Dev, Inc.</a>
+                        <a href = "#home" className="footer__navlink">In Tech, Sibarani</a>
                         <p className="para__text">&copy; 2023 Sibarani-Dev. All rights reserved. Designed by Jeremia.</p>
                     </div>
 

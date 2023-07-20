@@ -1,6 +1,7 @@
 import header_bg from "../assets/images/header-bg.jpg";
 import logo from "../assets/images/logo.png";
 import signature from "../assets/images/signature.png";
+import logo1 from "../assets/images/logo1.png";
 import icon_archer from "../assets/images/icon-archer.png"; 
 import icon_briefcase from "../assets/images/icon-briefcase.png";
 import icon_clock from "../assets/images/icon-clock.png";
@@ -28,6 +29,7 @@ import work_8 from "../assets/images/work-8.jpg";
 const images = {
     header_bg,
     logo,
+    logo1,
     signature,
     icon_archer,
     icon_briefcase,
